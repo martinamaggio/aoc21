@@ -1,3 +1,6 @@
+# https://adventofcode.com/2021/
+# day 23, puzzle 1
+
 A, B, C, D = 1, 10, 100, 1000
 
 answer = 0

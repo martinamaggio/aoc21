@@ -1,3 +1,6 @@
+# https://adventofcode.com/2021/
+# day 23, puzzle 2
+
 import heapq
 
 HALL_CELLS = [15, 16, 18, 20, 22, 24, 25]
