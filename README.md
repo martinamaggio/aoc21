@@ -1,4 +1,6 @@
 # Advent of Code 2021
 
-In 2021, I have decided to invest a bit of time and solve the puzzles of the [Advent of Code](https://adventofcode.com/2021).
-I doubt I will manage to be consistent and solve problems every day, but let's see.
+Solving puzzles from the [Advent of Code 2021](https://adventofcode.com/2021).
+
+During the advent weeks I used python. Now I'm going back for some rust.
+Compile and execute the rust files with `rustc x.rs && ./x`.
